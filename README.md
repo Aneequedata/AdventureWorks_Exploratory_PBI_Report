@@ -3,6 +3,9 @@ A comprehensive, interactive Power BI report designed for **sales performance an
 
 ---
 
+## Dashboard Link to Request Permission
+https://app.powerbi.com/groups/e72ac924-f0d2-4095-b3c2-c4302d04d4fc/dashboards/95a34dd7-af65-497b-9678-4a8edc17e63c?ctid=463183f4-15eb-4683-b80c-f0738cdb2f8e&pbi_source=linkShare
+
 ## 📂 Data Sources & Preprocessing
 
 ### **Datasets Used:**
